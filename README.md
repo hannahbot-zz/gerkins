@@ -35,6 +35,6 @@ Then you can interact with gerkins by typing `gerkins help`.
     ...
 
 ### Jenkingd
-gerkins needs to run with Jenkingd. You can set up Jenkingd below.
+gerkins needs to run with Jenkingd. You can set up Jenkingd by going to [Jenkingd][jenkingd].
 
-[Jenkingd]: https://github.com/amireh/jenkingd
+[jenkingd]: https://github.com/amireh/jenkingd
